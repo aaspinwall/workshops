@@ -1,0 +1,14 @@
+button,
+button:focus {
+  margin: 20px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-size: 2em;
+}
+button:focus {
+  outline-color: grey;
+}
+
+div {
+  font-size: 2em;
+}
